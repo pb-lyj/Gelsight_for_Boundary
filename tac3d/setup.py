@@ -11,7 +11,7 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
-        # 将 nnmini.pt 模型文件包含在包中
+        # include nnmini.pt file
         (os.path.join('share', package_name), ['nnmini.pt']),
     ],
     py_modules=['PyTac3D','image_boundary','gs3drecon'],
