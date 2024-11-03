@@ -9,7 +9,7 @@ Utilizing the **GelSight Mini** sensor, our system obtains the directional vecto
 
 # Install
 
-After downloading the files, you need to **compile** and **source** tac3d as a ROS2 package. If there are additional dependencies required to run with this package, please adjust the relevant XML files accordingly. Your computer must have a complete **ROS2 Humble** environment installed.
+After downloading the files, you need to **compile** and **source** `tac3d` as a ROS2 package. If there are additional dependencies required to run with this package, please adjust the relevant XML files accordingly. Your computer must have a complete **ROS2 Humble** environment installed.
 
 ```bash
 cd ~/<your_working_layer>
