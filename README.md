@@ -51,10 +51,10 @@ ros2 run tac3d initial
 
 This section could include information about other projects that may be relevant as references or resources for this project.
 
-- gelsight
+- gelsight：
 https://github.com/gelsightinc/gsrobotics
 
-- lbr
+- lbr：
 https://github.com/lbr-stack/lbr_fri_ros2_stack
 
 
